@@ -1,2 +1,5 @@
 # wvn-angular-template
-Wavenet Angular template
+ [description]
+
+## Getting started
+  [getting started use/dev]
